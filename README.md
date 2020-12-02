@@ -32,3 +32,12 @@ How to Run:
 #ls
 
 #python DarkZ.py
+
+Now Type python DarkZ.py -t (target id username/numberic id) -w (wordlist path) 
+Then type enter to run.
+It takes 1-2 hrs to crack the target id.
+
+
+#A tool by Dark Z corporation©
+
+
